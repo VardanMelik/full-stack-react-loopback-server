@@ -9,3 +9,7 @@ npm install -g loopback-cli
 2) Setup LB
 type cmd 
 lb
+
+
+Client url http://localhost:3000/
+Server url http://localhost:3000/explorer/
